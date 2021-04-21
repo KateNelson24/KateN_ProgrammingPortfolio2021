@@ -9,7 +9,9 @@
 #### Space Pirates 
 ##### My final Processing project for 2021, an OOP project for an interactive space game 
 
-![Start Screen](https://user-images.githubusercontent.com/80906139/111888072-e3864e00-899e-11eb-8951-267af8ef2ad3.png)
+![SpacePiratesST](https://user-images.githubusercontent.com/80906139/115565055-486ee580-a276-11eb-89b4-38e51ae229dc.png)
+![SpacePiratesGM](https://user-images.githubusercontent.com/80906139/115564937-2aa18080-a276-11eb-9a08-ef60b4bda606.png)
+![SpacePiraesEND](https://user-images.githubusercontent.com/80906139/115565276-79e7b100-a276-11eb-8fd0-c3a6cbfa7918.png)
 
 ### Calculator 
 #### Calculating with a switch of color
