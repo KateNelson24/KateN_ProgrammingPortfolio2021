@@ -25,7 +25,7 @@
 
 ### Etch-A-Sketch
 #### hi 
-![EtchASketch](EtchASketch" src="https://user-images.githubusercontent.com/80906139/115570398-4fe4bd80-a27b-11eb-9edb-29b6a4d806a8.png)
+![EtchASketch](https://user-images.githubusercontent.com/80906139/115570398-4fe4bd80-a27b-11eb-9edb-29b6a4d806a8.png)
 
 ## Repl Projects 
 
