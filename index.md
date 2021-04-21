@@ -16,8 +16,8 @@
 ### Calculator 
 #### Calculating with a switch of color
 ##### My first Project using multiple tabs for different classes, beginning with the button class. 
-![CalcGR](https://user-images.githubusercontent.com/80906139/115566315-5ffa9e00-a277-11eb-8abf-5c843b8dfdd4.png)/2
-![CalcOR](https://user-images.githubusercontent.com/80906139/115566392-7274d780-a277-11eb-887e-64c31789df0e.png)/2
+![CalcGR](https://user-images.githubusercontent.com/80906139/115568207-4fe3be00-a279-11eb-8134-0bcc564152af.png)
+![CalcOR](https://user-images.githubusercontent.com/80906139/115566392-7274d780-a277-11eb-887e-64c31789df0e.png)
 
 ### Astronomical Unit Converter 
 #### hi
