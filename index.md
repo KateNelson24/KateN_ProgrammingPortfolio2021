@@ -15,6 +15,8 @@
 
 ### Calculator 
 #### Calculating with a switch of color
+![CalcGR](https://user-images.githubusercontent.com/80906139/115566315-5ffa9e00-a277-11eb-8abf-5c843b8dfdd4.png)
+![CalcOR](https://user-images.githubusercontent.com/80906139/115566392-7274d780-a277-11eb-887e-64c31789df0e.png)
 
 ### Astronomical Unit Converter 
 #### hi
