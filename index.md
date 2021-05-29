@@ -37,6 +37,6 @@
 
 ## Group Projects 
 ### Cryptid Book Club 
-#### My first ever text-based game centered around some of my favorite myths with a simple twist. This was my partner, Joanna Bromka, and I last project for the 2020-2021 school year and was mainly coded using Python processing. 
+#### My first ever text-based game centered around some of my favorite myths with a simple twist. This was my partner, Joanna Bromka, and I last project for the 2020-2021 school year and was mainly coded using Python processing. Source file [here](https://github.com/KateNelson24/KateN_ProgrammingPortfolio2021/tree/gh-pages/src/Text_Based_Game-main%204)
 
 ##### All projects programmed during the 2020-2021 school year  
