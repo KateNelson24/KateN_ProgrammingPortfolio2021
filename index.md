@@ -7,7 +7,7 @@
 ## Processing Projects
 
 ### Space Pirates 
-#### My final Java Processing project for 2021, an OOP project for an interactive space game that uses man separeate tabs, functions, timers, etc!
+#### My final Java Processing project for 2021, an OOP project for an interactive space game that uses man separeate tabs, functions, timers, etc! Source fil [here](https://github.com/KateNelson24/KateN_ProgrammingPortfolio2021/tree/gh-pages/src/Updated_SpacePirates_pt7%202)
 
 ![SpacePiratesST](https://user-images.githubusercontent.com/80906139/115565055-486ee580-a276-11eb-89b4-38e51ae229dc.png)
 ![SpacePiratesGM](https://user-images.githubusercontent.com/80906139/115564937-2aa18080-a276-11eb-9a08-ef60b4bda606.png)
@@ -15,7 +15,7 @@
 
 ### Calculator 
 #### Calculating with a switch of color
-##### My first Project using multiple tabs for different classes, beginning with the button class. 
+##### My first Project using multiple tabs for different classes, beginning with the button class. Source file [here](https://github.com/KateNelson24/KateN_ProgrammingPortfolio2021/tree/gh-pages/src/Calc2020)
 ![CalcGR](https://user-images.githubusercontent.com/80906139/115568701-ca144280-a279-11eb-97b8-b7c7ff52a495.png)
 ![CalcOR](https://user-images.githubusercontent.com/80906139/115568492-93d6c300-a279-11eb-91c7-074a8369f04f.png)
 
