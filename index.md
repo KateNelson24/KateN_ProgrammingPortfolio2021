@@ -7,7 +7,7 @@
 ## Processing Projects
 
 ### Space Pirates 
-#### My final Processing project for 2021, an OOP project for an interactive space game that uses man separeate tabs, functions, timers, etc!
+#### My final Java Processing project for 2021, an OOP project for an interactive space game that uses man separeate tabs, functions, timers, etc!
 
 ![SpacePiratesST](https://user-images.githubusercontent.com/80906139/115565055-486ee580-a276-11eb-89b4-38e51ae229dc.png)
 ![SpacePiratesGM](https://user-images.githubusercontent.com/80906139/115564937-2aa18080-a276-11eb-9a08-ef60b4bda606.png)
@@ -36,5 +36,7 @@
 #### A simple file practice program to  give the user a a riddle and collect their input to save it into a seperate .txt file 
 
 ## Group Projects 
+### Cryptid Book Club 
+#### My first ever text-based game centered around some of my favorite myths with a simple twist. This was my partner, Joanna Bromka, and I last project for the 2020-2021 school year and was mainly coded using Python processing. 
 
 ##### All projects programmed during the 2020-2021 school year  
